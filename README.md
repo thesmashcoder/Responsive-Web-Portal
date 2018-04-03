@@ -1,26 +1,16 @@
-## Responsive Web Portal
+## Interanl Web Portal
 
 
-
+```
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Features
 
-# Header 1
-## Header 2
-### Header 3
+- Responsive
+- Bootstreap 4.0
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](https://thesmashcoder.github.io/Responsive-Web-Portal/) and ![Image](src)
+[https://thesmashcoder.github.io/Responsive-Web-Portal/](view Portal) and ![Image](src)
 ```
 

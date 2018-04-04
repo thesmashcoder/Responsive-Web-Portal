@@ -4,7 +4,6 @@
 
 
 ```
-### Features
 - Responsive
 - Bootstreap 4.0
 
